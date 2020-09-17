@@ -1,1 +1,1 @@
-# rsschool-cv
+https://archimikita.github.io/rsschool-cv/cv
